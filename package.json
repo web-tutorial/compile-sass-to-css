@@ -1,0 +1,24 @@
+{
+  "name": "compile-sass-to-css",
+  "version": "1.0.0",
+  "description": "Compile Sass to CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-tutorial/compile-sass-to-css.git"
+  },
+  "author": "ducito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-tutorial/compile-sass-to-css/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-sass": "git+https://github.com/gruntjs/grunt-contrib-sass.git#e85ee70ccb8839867172b57ca1378293291f8037",
+    "grunt-contrib-watch": "~0.4.4"
+  },
+  "homepage": "https://github.com/web-tutorial/compile-sass-to-css#readme"
+}

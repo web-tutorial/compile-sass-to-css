@@ -1,0 +1,18 @@
+.parent {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  background-color: #0b97c4;
+  width: 200px;
+  height: 200px; }
+  .parent .child {
+    background-color: #374e0c;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    float: none;
+    top: 50px; }
+    .parent .child :hover {
+      background-color: #2b81af; }
+
+/*# sourceMappingURL=style.css.map */
