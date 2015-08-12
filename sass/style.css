@@ -13,6 +13,7 @@
     float: none;
     top: 50px; }
     .parent .child :hover {
-      background-color: #2b81af; }
+      background-color: #2b81af;
+      color: #550000; }
 
 /*# sourceMappingURL=style.css.map */

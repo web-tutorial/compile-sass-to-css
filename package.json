@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "grunt": "~0.4.1",
-    "grunt-contrib-sass": "git+https://github.com/gruntjs/grunt-contrib-sass.git#e85ee70ccb8839867172b57ca1378293291f8037",
+    "grunt-contrib-sass": "~0.4.0",
     "grunt-contrib-watch": "~0.4.4"
   },
   "homepage": "https://github.com/web-tutorial/compile-sass-to-css#readme"
