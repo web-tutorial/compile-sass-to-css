@@ -1,2 +1,2 @@
-# compile-sass-to-css
-Compile Sass to CSS
+# compile-sass-to-css-with-grunt
+Compile Sass to CSS with Grunt
